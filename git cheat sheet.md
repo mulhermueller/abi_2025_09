@@ -4,6 +4,7 @@
 - creates a copy of your remote repository in your working directory
 
 ## git add
+- puts your changes to the staging area
 
 ## git status
 - shows the status of your files which are added, commited...
