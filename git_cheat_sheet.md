@@ -17,3 +17,9 @@
 
 ## git mv [old_filename] [new_filename]
 - renaming the file
+
+## git log
+- shows you all commits for the repository
+
+## git log HEAD~2..HEAD
+- shows you all commits from HEAD til HEAD -2, which means the last 2 recent commits
