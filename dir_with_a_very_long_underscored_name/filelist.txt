@@ -1,0 +1,6 @@
+total 12
+drwxr-xr-x 2 muellerlui muellerlui 4096 Sep 23 11:28 .
+drwxr-xr-x 8 muellerlui muellerlui 4096 Sep 23 11:18 ..
+-rw-r--r-- 1 muellerlui muellerlui    0 Sep 23 11:24 another_file.txt
+-rw-r--r-- 1 muellerlui muellerlui    0 Sep 23 11:28 filelist.txt
+-rw-r--r-- 1 muellerlui muellerlui   51 Sep 23 11:27 hello_file.txt
